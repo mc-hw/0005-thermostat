@@ -240,7 +240,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "${VERSION}"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -700,7 +700,10 @@
       "Root"
     ]
   ],
-  "text_variables": {},
+  "text_variables": {
+    "GH_REPO": "GITHUB.COM/MC-HW/0005",
+    "VERSION": " 1.0.0"
+  },
   "tuning_profiles": {
     "meta": {
       "version": 0
