@@ -33,7 +33,7 @@ junction J4 (LED current limiting resistors are required, open-collector outputs
 the embedded LEDs are used, or de-soldered when the embedded LEDs are not used.
 
 The thresholds can be used to trigger external devices (e.g. using relays). External devices should be connected to
-junction J2 (coil current limiting resistors are required, open-collector outputs).
+junction J2 (coil current limiting resistors are required, open-collector outputs, the current should be <80mA).
 
 ## Bill of materials
 
