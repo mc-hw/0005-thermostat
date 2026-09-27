@@ -1,6 +1,6 @@
 # Thermostat (0005)
 
-A thermostat indicating too _low/OK/to high_ temperature with LEDS.
+A thermostat indicating _too low/OK/too high_ temperature with LEDS.
 
 ## Description
 
