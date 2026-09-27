@@ -18,7 +18,7 @@ This circuit should be assembled on a double-sided, SMT printed circuit board.
 
 ## Running
 
-The device should be powered with 12DCV connected to J3 junction (mind the polarization).
+The device should be powered with 12VDC connected to J3 junction (mind the polarization).
 
 Comparing to the original solution, either a thermistor embedded into the PCB or the external thermistor connected to
 junction J1 can be used. Jumper JP1 should be soldered when the embedded thermistor is used, or de-soldered when the
