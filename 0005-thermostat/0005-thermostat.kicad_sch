@@ -5989,7 +5989,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-14_4.4x5mm_P0.65mm"
+		(property "Footprint" "Package_SO:SO-14_5.3x10.2mm_P1.27mm"
 			(at 138.43 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -6680,7 +6680,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-14_4.4x5mm_P0.65mm"
+		(property "Footprint" "Package_SO:SO-14_5.3x10.2mm_P1.27mm"
 			(at 154.94 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -7641,7 +7641,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.6mm"
+		(property "Footprint" "Package_SO:SOP-8_3.76x4.96mm_P1.27mm"
 			(at 100.33 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -7972,7 +7972,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.6mm"
+		(property "Footprint" "Package_SO:SOP-8_3.76x4.96mm_P1.27mm"
 			(at 100.33 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -9800,7 +9800,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:DFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.6mm"
+		(property "Footprint" "Package_SO:SOP-8_3.76x4.96mm_P1.27mm"
 			(at 158.75 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -10089,7 +10089,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-14_4.4x5mm_P0.65mm"
+		(property "Footprint" "Package_SO:SO-14_5.3x10.2mm_P1.27mm"
 			(at 138.43 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -10785,7 +10785,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-14_4.4x5mm_P0.65mm"
+		(property "Footprint" "Package_SO:SO-14_5.3x10.2mm_P1.27mm"
 			(at 172.72 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -11625,7 +11625,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-14_4.4x5mm_P0.65mm"
+		(property "Footprint" "Package_SO:SO-14_5.3x10.2mm_P1.27mm"
 			(at 171.45 152.4 0)
 			(hide yes)
 			(show_name no)
