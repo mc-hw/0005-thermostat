@@ -61,5 +61,5 @@ incorrect calibration).
 | R8,R9,R10   | 3   | 15k      | 0603                  |
 | R11,R12,R13 | 3   | 1k       | 0603                  |
 | T1,T2,T3    | 3   | BC847B   | SOT-23                |
-| US1         | 1   | LM393    | DFN-8-1EP             |
-| US2         | 1   | 4011     | TSSOP-14              |
+| US1         | 1   | LM393    | TSSOP-8 4.4mm x 3mm   |
+| US2         | 1   | 4011     | TSSOP-14 4.4mm x 5mm  |
